@@ -1,0 +1,10 @@
+PS C:\Users\asial\Documents\GoWorks\src\geektraining> go run .\main.go
+2022/05/23 00:06:28 errgroup exit...
+2022/05/23 00:06:28 shutting down server...
+errgroup exiting: get os signal: interrupt
+main.main.func5
+        C:/Users/asial/Documents/GoWorks/src/geektraining/main.go:58
+golang.org/x/sync/errgroup.(*Group).Go.func1
+        C:/Users/asial/go/pkg/mod/golang.org/x/sync@v0.0.0-20220513210516-0976fa681c29/errgroup/errgroup.go:74
+runtime.goexit
+        C:/go/src/runtime/asm_amd64.s:1371
