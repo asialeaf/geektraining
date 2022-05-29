@@ -1,4 +1,4 @@
-module github.com/asialeaf/geektraining
+module github.com/asialeaf/geektraining/week1
 
 go 1.16
 
